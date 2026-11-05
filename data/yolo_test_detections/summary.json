@@ -1,0 +1,11 @@
+{
+  "test_images": 738,
+  "gt_persons": 1557,
+  "detections": 1184,
+  "tp": 939,
+  "fp": 245,
+  "conf": 0.3,
+  "iou_tp": 0.5,
+  "precision": 0.7930743243243243,
+  "recall": 0.603082851637765
+}

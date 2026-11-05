@@ -1,0 +1,34 @@
+{
+  "cleaning": {
+    "images": 4952,
+    "corrupted": 0,
+    "duplicates": 0,
+    "no_annotations": 0,
+    "gray_converted": 10,
+    "person_boxes": 11004,
+    "person_too_small": 3735,
+    "object_boxes": 25777,
+    "object_overlap_person": 3800,
+    "object_too_small": 10793,
+    "bg_rejected": 33831,
+    "duplicate_crops": 1074
+  },
+  "normalization": {
+    "mean": [
+      0.4482,
+      0.4267,
+      0.4039
+    ],
+    "std": [
+      0.2063,
+      0.2004,
+      0.2072
+    ]
+  },
+  "classes": [
+    "pedestrian",
+    "other_object",
+    "background"
+  ],
+  "crop_size": 128
+}
