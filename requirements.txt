@@ -1,0 +1,15 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+pandas
+pyarrow
+pillow
+scikit-learn
+scikit-image      # HOG features (Model 1)
+joblib
+opencv-python
+matplotlib
+seaborn
+jupyter
+ultralytics>=8.1  # YOLOv8n (practical part and web app)
+gradio>=5         # web application (app.py)
