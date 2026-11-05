@@ -1,0 +1,23 @@
+{
+  "threshold": 0.5,
+  "ms_per_16_boxes": 32.277125000018714,
+  "device": "mps",
+  "before": {
+    "TP kept": 939.0,
+    "FP kept": 245.0,
+    "TP kept %": 100.0,
+    "FP removed %": 0.0,
+    "'no person' FP removed %": 0.0,
+    "precision": 0.7930743243243243,
+    "recall": 0.603082851637765
+  },
+  "after": {
+    "TP kept": 903.0,
+    "FP kept": 213.0,
+    "TP kept %": 96.1661341853035,
+    "FP removed %": 13.061224489795919,
+    "'no person' FP removed %": 16.030534351145036,
+    "precision": 0.8091397849462365,
+    "recall": 0.5799614643545279
+  }
+}
